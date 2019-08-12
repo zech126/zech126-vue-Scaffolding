@@ -1,21 +1,3 @@
-# 项目名称
-
-> 项目描述
-
-## 项目背景
-
-## 负责人
-
-产品：
-
-测试：
-
-开发：
-
-## 后端仓库地址
-
-[http://git.host.com](http://git.host.com)
-
 ## 分支管理
 
 - master 正式环境分支
@@ -23,12 +5,6 @@
 - release 测试环境分支
 
 所有分支都有自动化构建流程，开发人员**只在** `develop` 分支上进行开发提交，完成功能后由测试人员操作合并至 `release` 分支，完成测试阶段后由测试人员合并至 `master` 分支构建上线。
-
-## 部署地址
-
-- 正式地址： [http://prod.host.com](http://prod.host.com)
-- 开发环境： [http://dev.host.com](http://dev.host.com)
-- 测试环境： [http://test.host.com](http://test.host.com)
 
 ## 技术选型
 
